@@ -1,0 +1,23 @@
+title:
+  en: Auto Image to ASCII Converter
+  es: Conversor Automático de Imagen a ASCII
+finished: finished
+descriptionShort:
+  en: This project originates from the simple idea of transforming images into another format: TEXT! Using a third-party app (with proper attribution) and my UI, you can convert any video, GIF, or random image into text. Different modes are available, and you can save the outputs for later usage!
+  es: Este proyecto surge de la idea de convertir imágenes en otro formato: ¡TEXTO! Utilizando una aplicación de terceros (con la referencia correspondiente) y mi propia interfaz, puedes transformar cualquier vídeo, GIF o imagen en texto. Hay varios modos disponibles y puedes guardar los resultados.
+descriptionLong:
+  en: |
+    This project originates from the simple idea of transforming images into another format: TEXT! Using a third-party app (with proper attribution) and my UI, you can convert any video, GIF, or random image into text. Different modes are available, and you can save the outputs for later usage! I must admit that the way the third-party code is used might not be optimal and could potentially trigger your firewall. Nonetheless, it is fun to use and very visually appealing when you see the results.
+  es: |
+    Este proyecto nació de la idea de convertir imágenes en otro formato: ¡TEXTO! Usando una aplicación de terceros (debidamente acreditada) y mi interfaz, puedes transformar vídeos, GIFs o imágenes en texto. Hay distintos modos disponibles y puedes guardar los resultados. Eso sí, la forma en la que está integrado el código de terceros no es la mejor, y a veces puede activar tu firewall, pero es una herramienta curiosa y los resultados son visualmente muy atractivos.
+technologies: [python]
+tags: [other]
+logo: readme_images/Ascci Converter (1).webp
+screenShoots:
+  - readme_images/Ascci Converter (1).webp
+  - readme_images/Ascci Converter (2).webp
+  - readme_images/Ascci Converter (3).webp
+youtube: ta2pDyuCPKc
+slug: Auto-image-to-Ascii
+order: 38
+featured: false
