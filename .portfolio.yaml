@@ -3,8 +3,8 @@ title:
   es: Conversor Automático de Imagen a ASCII
 finished: finished
 descriptionShort:
-  en: This project originates from the simple idea of transforming images into another format: TEXT! Using a third-party app (with proper attribution) and my UI, you can convert any video, GIF, or random image into text. Different modes are available, and you can save the outputs for later usage!
-  es: Este proyecto surge de la idea de convertir imágenes en otro formato: ¡TEXTO! Utilizando una aplicación de terceros (con la referencia correspondiente) y mi propia interfaz, puedes transformar cualquier vídeo, GIF o imagen en texto. Hay varios modos disponibles y puedes guardar los resultados.
+  en: "This project originates from the simple idea of transforming images into another format: TEXT! Using a third-party app (with proper attribution) and my UI, you can convert any video, GIF, or random image into text. Different modes are available, and you can save the outputs for later usage!"
+  es: "Este proyecto surge de la idea de convertir imágenes en otro formato: ¡TEXTO! Utilizando una aplicación de terceros (con la referencia correspondiente) y mi propia interfaz, puedes transformar cualquier vídeo, GIF o imagen en texto. Hay varios modos disponibles y puedes guardar los resultados."
 descriptionLong:
   en: |
     This project originates from the simple idea of transforming images into another format: TEXT! Using a third-party app (with proper attribution) and my UI, you can convert any video, GIF, or random image into text. Different modes are available, and you can save the outputs for later usage! I must admit that the way the third-party code is used might not be optimal and could potentially trigger your firewall. Nonetheless, it is fun to use and very visually appealing when you see the results.
