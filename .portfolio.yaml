@@ -18,6 +18,10 @@ screenShoots:
   - readme_images/Ascci Converter (2).webp
   - readme_images/Ascci Converter (3).webp
 youtube: ta2pDyuCPKc
+keywords:
+  en: [image to ascii, ascii art, text image, video to text, gif to ascii, character art, terminal art, image converter, ascii converter, retro graphics, text visualization]
+  es: [imagen a ascii, arte ascii, texto desde imagen, vídeo a texto, gif a ascii, arte de caracteres, arte terminal, convertir imagen, conversor ascii, gráficos retro, visualización en texto]
 slug: Auto-image-to-Ascii
 order: 38
 featured: false
+
