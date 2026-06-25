@@ -11,7 +11,7 @@ descriptionLong:
   es: |
     Este proyecto nació de la idea de convertir imágenes en otro formato: ¡TEXTO! Usando una aplicación de terceros (debidamente acreditada) y mi interfaz, puedes transformar vídeos, GIFs o imágenes en texto. Hay distintos modos disponibles y puedes guardar los resultados. Eso sí, la forma en la que está integrado el código de terceros no es la mejor, y a veces puede activar tu firewall, pero es una herramienta curiosa y los resultados son visualmente muy atractivos.
 technologies: [python]
-tags: [other]
+tags: [personal]
 logo: readme_images/Ascci Converter (1).webp
 screenShoots:
   - readme_images/Ascci Converter (1).webp
